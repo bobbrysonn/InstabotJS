@@ -1,6 +1,6 @@
 {
-  "username": "username",
-  "password": "password",
+  "username": "_bobbrysonn_",
+  "password": "freelancer.com",
   "config": {
     "hashtags": [
       "follow4follow",
@@ -10,9 +10,9 @@
     ],
     "botModes":"like-classic-mode, follow-classic-mode",
     "maxLikesPerHashtag": 50,
-    "maxLikesPerDay": 800,
+    "maxLikesPerDay": 850,
     "maxDislikesPerDay": 200,
-    "maxFollowsPerDay": 300,
+    "maxFollowsPerDay": 200,
     "maxUnfollowsPerDay": 300,
     "minUnfollowWaitTime": 1440,
     "maxFollowsPerHashtag": 30,
