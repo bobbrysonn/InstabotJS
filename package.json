@@ -36,7 +36,7 @@
     "typescript": "~3.0.1"
   },
   "scripts": {
-    "serve": "node build/src/main.js",
+    "start": "node build/src/main.js",
     "release": "npm run copy-release-assets & npm run build",
     "build:dev": "npm run copy-static-assets & npm run build",
     "clean": "rimraf coverage build tmp",
